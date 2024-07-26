@@ -1,0 +1,6 @@
+sistema de cadastro de alunos
+
+#cadastrar alunos com: nome, idade,pai
+#lancar notas: nota1 e nota2
+#gerar media das notas
+#se media >=6 aprovado, senao reprovado
